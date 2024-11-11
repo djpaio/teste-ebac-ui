@@ -12,5 +12,9 @@
   "dependencies": {
     "@faker-js/faker": "^8.3.1",
     "cypress": "^13.6.0"
+  },
+  "devDependencies": {
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "url": "^0.11.4"
   }
 }
